@@ -3,7 +3,7 @@ import Pages from "./pages/Pages";
 function App() {
   return (
     <div className="App">
-      <h1>startam :)</h1>
+      <h1>MojiRecepti</h1>
       <Pages />
     </div>
   );
