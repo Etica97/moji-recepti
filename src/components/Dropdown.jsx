@@ -1,19 +1,44 @@
 import React, { useState, useRef } from 'react'
-import { useOnHoverOutside } from "./../hooks/useOnHoverOutside";
+import { useOnHoverOutside } from "../hooks/useOnHoverOutside"
 import { GiCupcake, GiPizzaSlice } from 'react-icons/gi'
 
-function Category() {
+
+function Dropdown() {
   return (
     <Navbar>
-      <NavItem icon= {<GiCupcake /> }>
+      <NavItem icon = {<GiCupcake />} name = 'SLATKO' >
         <DropdownMenuSlatko />   
       </NavItem> 
-      <NavItem icon= {<GiPizzaSlice />}>
+      <NavItem icon = {<GiPizzaSlice />} name = 'SLANO'>
         <DropdownMenuSlano /> 
-      </NavItem>
+      </NavItem>  
     </Navbar>
   )
 }
+/*davidova proba
+function DropdownMenu(props) {
+  
+  function DropdownItem(props) {
+    return(
+      <a href='#' className='menu-item'>
+        <span className='icon-button'>{props.leftIcon}</span>
+
+        { props.children }
+
+        <span className='icon-right'>{props.rightIcon}</span>
+      </a>
+    ) 
+  }
+  
+  return (
+    
+    <div className='dropdown'>
+      {props.list.forEach(element => {
+        <DropdownItem>nekiitekst</DropdownItem>
+      })};
+    </div>
+  )
+}*/
 
 function DropdownMenuSlatko() {
   
@@ -77,9 +102,9 @@ function NavItem(props) {
 
 
   return (
-    <li className='nav-item'>
-      <a href='#' className='icon-button' onMouseEnter={() => setOpen(!open)} onMouseLeave={() => setOpen(false)}>
-    {props.icon} 
+    <li className='nav-item' onMouseEnter={() => setOpen(true)} onMouseLeave={() => setOpen(false)}>
+      <a href='#' className='icon-button' >
+    {props.icon}{props.name} 
       </a>
 
       {open && props.children}
@@ -87,4 +112,4 @@ function NavItem(props) {
   )
 }
 
-export default Category
+export default Dropdown

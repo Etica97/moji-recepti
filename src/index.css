@@ -20,7 +20,6 @@ code {
   --text-color: #dadce1;
   --nav-size: 60px;
   --border: 1px solid #474a4d;
-  --border-radius: 8px;
   --speed: 500ms;
 }
 
@@ -38,7 +37,7 @@ a {
 .navbar {
   height: var(--nav-size);
   background-color: var(--bg);
-  padding: 0 1rem;
+  padding: 0 2%;
   border-bottom: var(--border);
 }
 
@@ -47,6 +46,7 @@ a {
   height: 100%;
   display: flex;
   justify-content: flex-start;
+  gap: 5%;
 }
 
 .nav-item {
@@ -88,6 +88,7 @@ a {
   border-radius: var(--border-radius);
   padding: 1rem;
   overflow: hidden;
+  gap: 5%;
 }
 
 .menu-item {
@@ -95,7 +96,7 @@ a {
   display: flex;
   align-items: center;
   border-radius: var(--border-radius);
-  transition: background var(--speed);
+  transition: var(--speed);
   padding: 0.5rem;
 }
 
