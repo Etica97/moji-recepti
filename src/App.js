@@ -2,9 +2,10 @@ import Pages from "./pages/Pages";
 
 function App() {
   return (
-    <div className="App">
-      <h1>MojiRecepti</h1>
+    <div>
+      <h1 className="title">MojiRecepti</h1>
       <Pages />
+      <div className="footer">footer :)</div>
     </div>
   );
 }

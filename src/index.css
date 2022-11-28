@@ -12,6 +12,22 @@ code {
     monospace;
 }
 
+.title {
+  background-color:#a9abae;
+  margin: 0%;
+  padding-top: 4%;
+  padding-bottom: 4%;
+}
+
+.footer {
+  background-color: #a9abae;
+  position: absolute;
+  bottom: 0%;
+  width: 80%;
+  padding-top: 4%;
+  padding-bottom: 4%;
+}
+
 /*CATEGORY*/
 
 :root {
@@ -80,7 +96,7 @@ a {
 
 .dropdown {
   position: absolute;
-  top: 140px;
+  top: 20%;
   width: 300px;
   transform: translateX(45%);
   background-color: var(--bg);
