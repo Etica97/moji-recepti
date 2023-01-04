@@ -1,12 +1,12 @@
 import React from 'react'
 import Dropdown from '../components/Dropdown'
 
-function Torte() {
+function Palačinke() {
   return (
     <div>
       <Dropdown />
-      Ugabuga </div>
+      Ugabuga paljačinke </div>
   )
 }
 
-export default Torte
+export default Palačinke

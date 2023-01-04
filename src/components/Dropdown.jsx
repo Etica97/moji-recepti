@@ -57,10 +57,9 @@ function DropdownMenuSlatko() {
   
   return (
     <div className='dropdown'>
-      <DropdownItem>Torte</DropdownItem>
-      <DropdownItem>Kolači</DropdownItem>
-      <DropdownItem>Palačinke</DropdownItem>
-      <DropdownItem>Ostalo</DropdownItem>
+      <NavLink to={'/Torte'}><DropdownItem>Torte</DropdownItem></NavLink>
+      <NavLink to={'/Kolaci'}><DropdownItem>Kolači</DropdownItem></NavLink>
+      <NavLink to={'/Palacinke'}><DropdownItem>Palačinke</DropdownItem></NavLink>
     </div>
   )
 }
@@ -81,10 +80,9 @@ function DropdownMenuSlano() {
   
   return (
     <div className='dropdown'>
-      <DropdownItem>Variva</DropdownItem>
-      <DropdownItem>Kiflice</DropdownItem>
-      <DropdownItem>Kruh</DropdownItem>
-      <DropdownItem>Ostalo</DropdownItem>
+      <NavLink to={'/Variva'}><DropdownItem>Variva</DropdownItem></NavLink>
+      <NavLink to={'/Kiflice'}><DropdownItem>Kiflice</DropdownItem></NavLink>
+      <NavLink to={'/Kruh'}><DropdownItem>Kruh</DropdownItem></NavLink>
     </div>
   )
 }

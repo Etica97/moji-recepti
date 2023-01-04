@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  
 }
 
 code {
@@ -96,7 +97,7 @@ a {
 
 .dropdown {
   position: absolute;
-  top: 20%;
+  top: 22.5%;
   width: 300px;
   transform: translateX(45%);
   background-color: var(--bg);

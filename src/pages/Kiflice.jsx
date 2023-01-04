@@ -1,12 +1,12 @@
 import React from 'react'
 import Dropdown from '../components/Dropdown'
 
-function Torte() {
+function Kiflice() {
   return (
     <div>
       <Dropdown />
-      Ugabuga </div>
+      Ugabuga kifle </div>
   )
 }
 
-export default Torte
+export default Kiflice

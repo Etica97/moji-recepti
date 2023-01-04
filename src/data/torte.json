@@ -1,0 +1,181 @@
+[
+        {
+        "name": "Brownies",
+        "ingredients": [
+            {
+                "name": "brašno",
+                "quantity": "150",
+                "type": "grama"
+            },
+            {
+                "name": "margarin",
+                "quantity": "100",
+                "type": "grama"
+            },
+            {
+                "name": "čokolada za kuhanje",
+                "quantity": "400 ",
+                "type": "grama"
+            },
+            {
+                "name": "šećer",
+                "quantity": "140",
+                "type": "grama"
+            },
+            {
+                "name": "jaja",
+                "quantity": "4",
+                "type": "kom"
+            }
+        ],
+        "steps": [
+            "Pjenasto umuti jaja i šećer, dodaj brašno i pažljivo izmješaj.",
+            "Zajedno otopi margarin i čokoladu, sve pomješaj i ulij u kalup 24x24 cm.",
+            "Peci na 180 stupnjeva oko 20 minuta."
+        ]
+    },
+
+    {
+        "name": "Brownies",
+        "ingredients": [
+            {
+                "name": "brašno",
+                "quantity": "150",
+                "type": "grama"
+            },
+            {
+                "name": "margarin",
+                "quantity": "100",
+                "type": "grama"
+            },
+            {
+                "name": "čokolada za kuhanje",
+                "quantity": "400 ",
+                "type": "grama"
+            },
+            {
+                "name": "šećer",
+                "quantity": "140",
+                "type": "grama"
+            },
+            {
+                "name": "jaja",
+                "quantity": "4",
+                "type": "kom"
+            }
+        ],
+        "steps": [
+            "Pjenasto umuti jaja i šećer, dodaj brašno i pažljivo izmješaj.",
+            "Zajedno otopi margarin i čokoladu, sve pomješaj i ulij u kalup 24x24 cm.",
+            "Peci na 180 stupnjeva oko 20 minuta."
+        ]
+    },
+
+    {
+        "name": "Brownies",
+        "ingredients": [
+            {
+                "name": "brašno",
+                "quantity": "150",
+                "type": "grama"
+            },
+            {
+                "name": "margarin",
+                "quantity": "100",
+                "type": "grama"
+            },
+            {
+                "name": "čokolada za kuhanje",
+                "quantity": "400 ",
+                "type": "grama"
+            },
+            {
+                "name": "šećer",
+                "quantity": "140",
+                "type": "grama"
+            },
+            {
+                "name": "jaja",
+                "quantity": "4",
+                "type": "kom"
+            }
+        ],
+        "steps": [
+            "Pjenasto umuti jaja i šećer, dodaj brašno i pažljivo izmješaj.",
+            "Zajedno otopi margarin i čokoladu, sve pomješaj i ulij u kalup 24x24 cm.",
+            "Peci na 180 stupnjeva oko 20 minuta."
+        ]
+    },
+
+    {
+        "name": "Brownies",
+        "ingredients": [
+            {
+                "name": "brašno",
+                "quantity": "150",
+                "type": "grama"
+            },
+            {
+                "name": "margarin",
+                "quantity": "100",
+                "type": "grama"
+            },
+            {
+                "name": "čokolada za kuhanje",
+                "quantity": "400 ",
+                "type": "grama"
+            },
+            {
+                "name": "šećer",
+                "quantity": "140",
+                "type": "grama"
+            },
+            {
+                "name": "jaja",
+                "quantity": "4",
+                "type": "kom"
+            }
+        ],
+        "steps": [
+            "Pjenasto umuti jaja i šećer, dodaj brašno i pažljivo izmješaj.",
+            "Zajedno otopi margarin i čokoladu, sve pomješaj i ulij u kalup 24x24 cm.",
+            "Peci na 180 stupnjeva oko 20 minuta."
+        ]
+    },
+
+    {
+        "name": "Brownies",
+        "ingredients": [
+            {
+                "name": "brašno",
+                "quantity": "150",
+                "type": "grama"
+            },
+            {
+                "name": "margarin",
+                "quantity": "100",
+                "type": "grama"
+            },
+            {
+                "name": "čokolada za kuhanje",
+                "quantity": "400 ",
+                "type": "grama"
+            },
+            {
+                "name": "šećer",
+                "quantity": "140",
+                "type": "grama"
+            },
+            {
+                "name": "jaja",
+                "quantity": "4",
+                "type": "kom"
+            }
+        ],
+        "steps": [
+            "Pjenasto umuti jaja i šećer, dodaj brašno i pažljivo izmješaj.",
+            "Zajedno otopi margarin i čokoladu, sve pomješaj i ulij u kalup 24x24 cm.",
+            "Peci na 180 stupnjeva oko 20 minuta."
+        ]
+    }
+]

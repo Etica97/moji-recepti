@@ -1,0 +1,208 @@
+[
+    {
+        "name": "Američke palačinke",
+        "ingredients": [
+            {
+                "name": "brašno",
+                "quantity": "10",
+                "type": "žlica"
+            },
+            {
+                "name": "prašak za pecivo",
+                "quantity": "1",
+                "type": "žličica"
+            },
+            {
+                "name": "sol",
+                "quantity": "0.5",
+                "type": "žličica"
+            },
+            {
+                "name": "šećer",
+                "quantity": "2",
+                "type": "žlica"
+            },
+            {
+                "name": "mlijeko",
+                "quantity": "130",
+                "type": "mililitara"
+            },
+            {
+                "name": "jaja",
+                "quantity": "1",
+                "type": "kom"
+            },
+            {
+                "name": "otopljeni maslac",
+                "quantity": "2",
+                "type": "žlica"
+            }
+        ],
+        "steps": [
+            "Pomješaj sve suhe sastojke pa dodaj jaje, maslac i mlijeko.",
+            "Izmiksaj u žitku masu bez grudica.",
+            "Peci na tavi s malo ulja 1-2 min sa svake strane."
+        ]
+    },
+
+    {
+        "name": "Banana palačinke",
+        "ingredients": [
+            {
+                "name": "brašno",
+                "quantity": "120",
+                "type": "grama"
+            },
+            {
+                "name": "šećer",
+                "quantity": "1",
+                "type": "žlica"
+            },
+            {
+                "name": "prašak za pecivo",
+                "quantity": "1/2",
+                "type": "vrećica"
+            },
+            {
+                "name": "sol",
+                "quantity": "1",
+                "type": "prstohvat"
+            },
+            {
+                "name": "mlijeko",
+                "quantity": "120",
+                "type": "mililitara"
+            },
+            {
+                "name": "jaje",
+                "quantity": "1",
+                "type": "kom"
+            },
+            {
+                "name": "ulje",
+                "quantity": "2",
+                "type": "žlica"
+            },
+            {
+                "name": "banane",
+                "quantity": "2",
+                "type": "kom"
+            }                                  
+        ],
+        "steps": [
+            "Pomješaj brašno, šećer, pzp i sol.",
+            "U drugoj posudi izgnječi banane, dodaj im ulje te spoji sa suhim sastojcima.",
+            "Na kraju postupno umješaj mlijeko pa peci na tavi.",
+            "p.s. Brzo zagore, pazi :)"
+        ]
+    },
+
+    {
+        "name": "Brownies",
+        "ingredients": [
+            {
+                "name": "brašno",
+                "quantity": "150",
+                "type": "grama"
+            },
+            {
+                "name": "margarin",
+                "quantity": "100",
+                "type": "grama"
+            },
+            {
+                "name": "čokolada za kuhanje",
+                "quantity": "400 ",
+                "type": "grama"
+            },
+            {
+                "name": "šećer",
+                "quantity": "140",
+                "type": "grama"
+            },
+            {
+                "name": "jaja",
+                "quantity": "4",
+                "type": "kom"
+            }
+        ],
+        "steps": [
+            "Pjenasto umuti jaja i šećer, dodaj brašno i pažljivo izmješaj.",
+            "Zajedno otopi margarin i čokoladu, sve pomješaj i ulij u kalup 24x24 cm.",
+            "Peci na 180 stupnjeva oko 20 minuta."
+        ]
+    },
+
+        {
+        "name": "Brownies",
+        "ingredients": [
+            {
+                "name": "brašno",
+                "quantity": "150",
+                "type": "grama"
+            },
+            {
+                "name": "margarin",
+                "quantity": "100",
+                "type": "grama"
+            },
+            {
+                "name": "čokolada za kuhanje",
+                "quantity": "400 ",
+                "type": "grama"
+            },
+            {
+                "name": "šećer",
+                "quantity": "140",
+                "type": "grama"
+            },
+            {
+                "name": "jaja",
+                "quantity": "4",
+                "type": "kom"
+            }
+        ],
+        "steps": [
+            "Pjenasto umuti jaja i šećer, dodaj brašno i pažljivo izmješaj.",
+            "Zajedno otopi margarin i čokoladu, sve pomješaj i ulij u kalup 24x24 cm.",
+            "Peci na 180 stupnjeva oko 20 minuta."
+        ]
+    },
+
+        {
+        "name": "Brownies",
+        "ingredients": [
+            {
+                "name": "brašno",
+                "quantity": "150",
+                "type": "grama"
+            },
+            {
+                "name": "margarin",
+                "quantity": "100",
+                "type": "grama"
+            },
+            {
+                "name": "čokolada za kuhanje",
+                "quantity": "400 ",
+                "type": "grama"
+            },
+            {
+                "name": "šećer",
+                "quantity": "140",
+                "type": "grama"
+            },
+            {
+                "name": "jaja",
+                "quantity": "4",
+                "type": "kom"
+            }
+        ],
+        "steps": [
+            "Pjenasto umuti jaja i šećer, dodaj brašno i pažljivo izmješaj.",
+            "Zajedno otopi margarin i čokoladu, sve pomješaj i ulij u kalup 24x24 cm.",
+            "Peci na 180 stupnjeva oko 20 minuta."
+        ]
+    }
+
+]

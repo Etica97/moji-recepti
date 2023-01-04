@@ -1,0 +1,246 @@
+[
+    
+    {
+        "name": "Brownies",
+        "ingredients": [
+            {
+                "name": "brašno",
+                "quantity": "150",
+                "type": "grama"
+            },
+            {
+                "name": "margarin",
+                "quantity": "100",
+                "type": "grama"
+            },
+            {
+                "name": "čokolada za kuhanje",
+                "quantity": "400 ",
+                "type": "grama"
+            },
+            {
+                "name": "šećer",
+                "quantity": "140",
+                "type": "grama"
+            },
+            {
+                "name": "jaja",
+                "quantity": "4",
+                "type": "kom"
+            }
+        ],
+        "steps": [
+            "Pjenasto umuti jaja i šećer, dodaj brašno i pažljivo izmješaj.",
+            "Zajedno otopi margarin i čokoladu, sve pomješaj i ulij u kalup 24x24 cm.",
+            "Peci na 180 stupnjeva oko 20 minuta."
+        ]
+    },
+
+    {
+        "name": "Keksi sa čokoladom",
+        "ingredients": [
+            {
+                "name": "oštro brašno",
+                "quantity": "450",
+                "type": "grama"
+            },
+            {
+                "name": "prašak za pecivo",
+                "quantity": "2",
+                "type": "žličica"
+            },
+            {
+                "name": "sol",
+                "quantity": "1/2",
+                "type": "žličica"
+            },
+            {
+                "name": "šećer",
+                "quantity": "75",
+                "type": "grama"
+            },
+            {
+                "name": "jaja",
+                "quantity": "2",
+                "type": "kom"
+            },
+            {
+                "name": "maslac",
+                "quantity": "200",
+                "type": "grama"
+            },
+            {
+                "name": "ekstrakt vanilije",
+                "quantity": "1",
+                "type": "žličica"
+            },
+            {
+                "name": "čokolada",
+                "quantity": "200",
+                "type": "grama"
+            }                        
+        ],
+        "steps": [
+            "Pomješaj brašno, šećer, sol i pzp pa umješaj maslac.",
+            "Dodaj jaja i ekstrakt vanilije te na kraju čokoladu u komadićima.",
+            "Napravi male loptice i peci na 190 stupnjeva 15-20 min."
+        ]
+    },
+
+    {
+        "name": "Baklava",
+        "ingredients": [
+            {
+                "name": "kore za pite",
+                "quantity": "1000",
+                "type": "grama"
+            },
+            {
+                "name": "mljeveni orasi",
+                "quantity": "300",
+                "type": "grama"
+            },
+            {
+                "name": "sjeckani orasi",
+                "quantity": "300",
+                "type": "grama"
+            },
+            {
+                "name": "prezle",
+                "quantity": "200",
+                "type": "grama"
+            },
+            {
+                "name": "ulje",
+                "quantity": "350",
+                "type": "mililitara"
+            },
+            {
+                "name": "otopljeni maslac",
+                "quantity": "150",
+                "type": "grama"
+            },
+            {
+                "name": "šećer",
+                "quantity": "1000",
+                "type": "grama"
+            },
+            {
+                "name": "vanilin šećer",
+                "quantity": "1",
+                "type": "vrećica"
+            },
+            {
+                "name": "sok od limuna i kriške",
+                "quantity": "2",
+                "type": "kom"
+            },
+            {
+                "name": "voda",
+                "quantity": "1000",
+                "type": "mililitara"
+            }                                    
+        ],
+        "steps": [
+            "Pomješaj šećer, limun sok, kriške limuna i šećer te skuhaj sirup.",
+            "Slaži u duboku tepsiju 4 kore poprskane uljem, na svaku iduću idu orasi, prezle i ulje te na vrh opet 4 kore s uljem.",
+            "Izreži po želji pa prelij maslacem i pokrij jednom korom.",
+            "Zagrij pečnicu na 250 pa smanji na 160 stupnjeva i peci 40 minuta",
+            "Sa pečene baklave makni gornju koru pa prelij hladnim sirupom."
+        ]
+    },
+    
+    {
+        "name": "Muffini",
+        "ingredients": [
+            {
+                "name": "brašno",
+                "quantity": "250",
+                "type": "ggrama"
+            },
+            {
+                "name": "šećer",
+                "quantity": "150",
+                "type": "grama"
+            },
+            {
+                "name": "soda",
+                "quantity": "1",
+                "type": "žličica"
+            },
+            {
+                "name": "sol",
+                "quantity": "1",
+                "type": "prstohvat"
+            },
+            {
+                "name": "ulje",
+                "quantity": "80",
+                "type": "mililitara"
+            },
+            {
+                "name": "voda",
+                "quantity": "200",
+                "type": "mililitara"
+            },
+            {
+                "name": "med",
+                "quantity": "2",
+                "type": "žlice"
+            },
+            {
+                "name": "jabučni ocat",
+                "quantity": "1",
+                "type": "žlice"
+            },
+            {
+                "name": "kakao",
+                "quantity": "4",
+                "type": "žlice"
+            }                                   
+        ],
+        "steps": [
+            "Pomješaj brašno, šećer, sodu, sol i kakao pa dodaj preostale sastojke.",
+            "Pola smjese ulij u kalupe, u sredinu stavi punjenje po želji pa ulij preostalu smjesu.",
+            "Najbolji su sa umakom od višanja (puding + kompot od višanja).",
+            "Peci na 180 stupnjeva 30-40 minuta."
+        ]
+    },
+
+    {
+        "name": "Brownies",
+        "ingredients": [
+            {
+                "name": "brašno",
+                "quantity": "150",
+                "type": "grama"
+            },
+            {
+                "name": "margarin",
+                "quantity": "100",
+                "type": "grama"
+            },
+            {
+                "name": "čokolada za kuhanje",
+                "quantity": "400 ",
+                "type": "grama"
+            },
+            {
+                "name": "šećer",
+                "quantity": "140",
+                "type": "grama"
+            },
+            {
+                "name": "jaja",
+                "quantity": "4",
+                "type": "kom"
+            }
+        ],
+        "steps": [
+            "Pjenasto umuti jaja i šećer, dodaj brašno i pažljivo izmješaj.",
+            "Zajedno otopi margarin i čokoladu, sve pomješaj i ulij u kalup 24x24 cm.",
+            "Peci na 180 stupnjeva oko 20 minuta."
+        ]
+    }
+        
+]
