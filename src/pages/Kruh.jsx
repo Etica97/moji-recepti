@@ -5,7 +5,8 @@ function Kruh() {
   return (
     <div>
       <Dropdown />
-      Ugabuga kru </div>
+      <h1>KRU</h1>
+      </div>
   )
 }
 

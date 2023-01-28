@@ -5,7 +5,8 @@ function Variva() {
   return (
     <div>
       <Dropdown />
-      Ugabuga variva </div>
+      <h1>NE ZNAM KUHATI</h1> 
+      </div>
   )
 }
 

@@ -1,6 +1,8 @@
 [
         {
+        "id": 1,
         "name": "Brownies",
+        "image": "images/torta1.jpg",
         "ingredients": [
             {
                 "name": "brašno",
@@ -36,7 +38,9 @@
     },
 
     {
+        "id": 2,
         "name": "Brownies",
+        "image": "images/torta2.jpg",
         "ingredients": [
             {
                 "name": "brašno",
@@ -72,7 +76,9 @@
     },
 
     {
+        "id": 3,
         "name": "Brownies",
+        "image": "images/torta3.jpg",
         "ingredients": [
             {
                 "name": "brašno",
@@ -108,7 +114,9 @@
     },
 
     {
+        "id": 4,
         "name": "Brownies",
+        "image": "images/torta4.jpg",
         "ingredients": [
             {
                 "name": "brašno",
@@ -144,7 +152,9 @@
     },
 
     {
+        "id": 5,
         "name": "Brownies",
+        "image": "images/torta5.jpg",
         "ingredients": [
             {
                 "name": "brašno",

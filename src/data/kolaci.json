@@ -1,7 +1,9 @@
 [
     
     {
+        "id": 1,
         "name": "Brownies",
+        "image": "images/brownies.jpg",
         "ingredients": [
             {
                 "name": "brašno",
@@ -37,7 +39,9 @@
     },
 
     {
+        "id": 2,
         "name": "Keksi sa čokoladom",
+        "image": "images/chocolate_chip_cookies.jpg",
         "ingredients": [
             {
                 "name": "oštro brašno",
@@ -88,7 +92,9 @@
     },
 
     {
+        "id": 3,
         "name": "Baklava",
+        "image": "images/baklava.jpg",
         "ingredients": [
             {
                 "name": "kore za pite",
@@ -151,7 +157,9 @@
     },
     
     {
+        "id": 4,
         "name": "Muffini",
+        "image": "images/muffins.jpg",
         "ingredients": [
             {
                 "name": "brašno",
@@ -208,38 +216,40 @@
     },
 
     {
-        "name": "Brownies",
+        "id": 5,
+        "name": "Keksići zvjezdice",
+        "image": "images/jam_cookies.jpg",
         "ingredients": [
             {
-                "name": "brašno",
-                "quantity": "150",
+                "name": "oštro brašno",
+                "quantity": "250",
+                "type": "grama"
+            },
+            {
+                "name": "vanilin šećer",
+                "quantity": "1",
+                "type": "kom"
+            },
+            {
+                "name": "sol",
+                "quantity": "1",
+                "type": "prstohvat"
+            },
+            {
+                "name": "šećer u prahu",
+                "quantity": "75",
                 "type": "grama"
             },
             {
                 "name": "margarin",
-                "quantity": "100",
+                "quantity": "175",
                 "type": "grama"
-            },
-            {
-                "name": "čokolada za kuhanje",
-                "quantity": "400 ",
-                "type": "grama"
-            },
-            {
-                "name": "šećer",
-                "quantity": "140",
-                "type": "grama"
-            },
-            {
-                "name": "jaja",
-                "quantity": "4",
-                "type": "kom"
             }
         ],
         "steps": [
-            "Pjenasto umuti jaja i šećer, dodaj brašno i pažljivo izmješaj.",
-            "Zajedno otopi margarin i čokoladu, sve pomješaj i ulij u kalup 24x24 cm.",
-            "Peci na 180 stupnjeva oko 20 minuta."
+            "U suhe sastojke umješaj margarin dok ne dobiješ tijesto.",
+            "Dio po dio tijesta tanko razvaljaj i izrezuj zvjezdice, ostatak drži u hladnjaku.",
+            "Peci na 190 stupnjeva oko 10 minuta te hladne keksiće premaži po želji i spoji po dva."
         ]
     }
         

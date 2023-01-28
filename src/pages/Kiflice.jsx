@@ -5,7 +5,8 @@ function Kiflice() {
   return (
     <div>
       <Dropdown />
-      Ugabuga kifle </div>
+      <h1>UGABUGA KIFLE</h1>
+      </div>
   )
 }
 

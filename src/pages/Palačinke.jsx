@@ -5,7 +5,8 @@ function Palačinke() {
   return (
     <div>
       <Dropdown />
-      Ugabuga paljačinke </div>
+      <h1>PALJAČINKE</h1>
+      </div>
   )
 }
 
