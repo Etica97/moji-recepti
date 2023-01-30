@@ -5,7 +5,7 @@ function Variva() {
   return (
     <div>
       <Dropdown />
-      <h1>NE ZNAM KUHATI</h1> 
+      <h2>NE ZNAM KUHATI</h2> 
       </div>
   )
 }

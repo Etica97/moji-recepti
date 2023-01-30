@@ -6,11 +6,11 @@ function Kolači() {
   return (
     <div>
       <Dropdown />
-      <h1>KOLAČI</h1>
+      <h2>KOLAČI</h2>
       {KolačiData.map((kolačiDetail, index)=>{
         return <div className='recipe-button' key={kolačiDetail.id}>
         <button>
-         <h1>{kolačiDetail.name}</h1>
+         <h2>{kolačiDetail.name}</h2>
          <img src= {kolačiDetail.image} alt='img_kolač' />
         </button>
         </div>

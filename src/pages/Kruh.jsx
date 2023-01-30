@@ -5,7 +5,7 @@ function Kruh() {
   return (
     <div>
       <Dropdown />
-      <h1>KRU</h1>
+      <h2>KRU</h2>
       </div>
   )
 }

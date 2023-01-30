@@ -5,7 +5,7 @@ function Kiflice() {
   return (
     <div>
       <Dropdown />
-      <h1>UGABUGA KIFLE</h1>
+      <h2>UGABUGA KIFLE</h2>
       </div>
   )
 }

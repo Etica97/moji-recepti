@@ -7,11 +7,11 @@ function Torte() {
   return (
     <div>
       <Dropdown />
-      <h1>TORTE</h1>
+      <h2>TORTE</h2>
       {TorteData.map((torteDetail, index)=>{
         return <div className='recipe-button' key={torteDetail.id}>
         <button>
-         <h1>{torteDetail.name}</h1>
+         <h2>{torteDetail.name}</h2>
          <img src= {torteDetail.image} alt='img_torte' />
         </button>
         </div>

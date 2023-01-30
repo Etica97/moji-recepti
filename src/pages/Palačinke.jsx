@@ -5,7 +5,7 @@ function Palačinke() {
   return (
     <div>
       <Dropdown />
-      <h1>PALJAČINKE</h1>
+      <h2>PALJAČINKE</h2>
       </div>
   )
 }
