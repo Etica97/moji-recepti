@@ -1,0 +1,94 @@
+[
+        {
+        "name": "Brze kiflice",
+        "ingredients": [
+            {
+                "name": "tekući jogurt u čaši",
+                "quantity": "2",
+                "type": "kom"
+            },
+            {
+                "name": "ulje u čaši",
+                "quantity": "1",
+                "type": "kom"
+            },
+            {
+                "name": "jaje",
+                "quantity": "1",
+                "type": "kom"
+            },
+            {
+                "name": "prašak za pecivo",
+                "quantity": "30",
+                "type": "grama"
+            },
+            {
+                "name": "sol",
+                "quantity": "1.5",
+                "type": "žličica"
+            },
+            {
+                "name": "šećer",
+                "quantity": "0.5",
+                "type": "žličica"
+            },
+            {
+                "name": "ocat",
+                "quantity": "1",
+                "type": "žlica"
+            },
+            {
+                "name": "brašno u čaši",
+                "quantity": "6",
+                "type": "kom"
+            }
+        ],
+        "steps": [
+            "Izmješaj sve osim brašna i žumanjka, zatim postupno dodaj brašno (oko 5 jogurt čaša).",
+            "Tijesto podijeli na dva dijela, izvaljaj u krug i svaki izreži na 16 trokutića.",
+            "Smotaj kiflice, namaži ih žumanjkom i peci na 190 stupnjeva do 35 min."
+        ]
+    },
+
+            {
+        "name": "Kiflice sa posnim sirom",
+        "ingredients": [
+            {
+                "name": "brašno",
+                "quantity": "750",
+                "type": "grama"
+            },
+            {
+                "name": "sol",
+                "quantity": "2",
+                "type": "žlica"
+            },
+            {
+                "name": "ulje",
+                "quantity": "150",
+                "type": "mililitara"
+            },
+            {
+                "name": "mlijeko",
+                "quantity": "150",
+                "type": "mililitara"
+            },
+            {
+                "name": "posni/svježi sir",
+                "quantity": "375",
+                "type": "grama"
+            },
+            {
+                "name": "prašak za pecivo",
+                "quantity": "9",
+                "type": "žličica"
+            }
+        ],
+        "steps": [
+            "Pomješaj sve suhe pa mokre sastojke i dobro zamjesi.",
+            "Razvaljati, izrezati trokute i smotati kiflice (puniti po želji).",
+            "Premazati jajetom i peči na 180 stupnjeva 30 minuta.",
+            "Dobije se dvije tepsije."
+        ]
+    }
+]

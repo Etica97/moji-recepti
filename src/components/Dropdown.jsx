@@ -8,10 +8,10 @@ function Dropdown() {
   return (
     <Navbar>
       <NavItem icon = {<GiCupcake />} name = 'SLATKO' >
-        <DropdownMenuSlatko />   
+        <DropdownMenuSweet />   
       </NavItem> 
       <NavItem icon = {<GiPizzaSlice />} name = 'SLANO'>
-        <DropdownMenuSlano /> 
+        <DropdownMenuSalty /> 
       </NavItem>  
     </Navbar>
   )
@@ -41,7 +41,7 @@ function DropdownMenu(props) {
   )
 }*/
 
-function DropdownMenuSlatko() {
+function DropdownMenuSweet() {
   
   function DropdownItem(props) {
     return(
@@ -57,14 +57,14 @@ function DropdownMenuSlatko() {
   
   return (
     <div className='dropdown'>
-      <NavLink to={'/Torte'}><DropdownItem>Torte</DropdownItem></NavLink>
-      <NavLink to={'/Kolaci'}><DropdownItem>Kolači</DropdownItem></NavLink>
-      <NavLink to={'/Palacinke'}><DropdownItem>Palačinke</DropdownItem></NavLink>
+      <NavLink to={'/Cakes'}><DropdownItem>Torte</DropdownItem></NavLink>
+      <NavLink to={'/Cookies'}><DropdownItem>Kolači</DropdownItem></NavLink>
+      <NavLink to={'/Pancakes'}><DropdownItem>Palačinke</DropdownItem></NavLink>
     </div>
   )
 }
 
-function DropdownMenuSlano() {
+function DropdownMenuSalty() {
   
   function DropdownItem(props) {
     return(
@@ -80,9 +80,9 @@ function DropdownMenuSlano() {
   
   return (
     <div className='dropdown'>
-      <NavLink to={'/Variva'}><DropdownItem>Variva</DropdownItem></NavLink>
-      <NavLink to={'/Kiflice'}><DropdownItem>Kiflice</DropdownItem></NavLink>
-      <NavLink to={'/Kruh'}><DropdownItem>Kruh</DropdownItem></NavLink>
+      <NavLink to={'/Stew'}><DropdownItem>Variva</DropdownItem></NavLink>
+      <NavLink to={'/Rolls'}><DropdownItem>Kiflice</DropdownItem></NavLink>
+      <NavLink to={'/Bread'}><DropdownItem>Kruh</DropdownItem></NavLink>
     </div>
   )
 }
